@@ -2,7 +2,7 @@
 ![license](https://img.shields.io/badge/license-MIT-blue.svg?link=https://github.com/dono-app/ios/blob/master/LICENSE)
 
 ## {Cogito, Ergo Sum}
-My personal website to summarize my thoughts, projects, and progress in life at one place for me to look back at how silly I've been
+My [personal website](https://thealphadollar.github.io/) to summarize my thoughts, projects, and progress in life at one place for me to look back at how silly I've been
 and smile.
 
 ## OpenSource Softwares Used
