@@ -1,23 +1,13 @@
 # { Personal } Website Using Jekyll Theme
-![Build Status](https://travis-ci.org/thealphadollar/revelare.svg?branch=master)
 ![license](https://img.shields.io/badge/license-MIT-blue.svg?link=https://github.com/dono-app/ios/blob/master/LICENSE)
 
-Built using { Personal }, a free responsive Jekyll theme :wink:
+## {Cogito, Ergo Sum}
+My personal website to summarize my thoughts, projects, and progress in life at one place for me to look back at how silly I've been
+and smile.
 
-First, you need to install jekyll and the dependencies of { Personal } by running:
+## OpenSource Softwares Used
 
-```shell
-./scripts/install
-```
-
-Then, you can build and serve the website by simply running:
-
-```shell
-jekyll serve
-```
-## OSS used
-
-One of the reasons { Personal } is real is the following OSS projects:
+The website uses the following open source projects:
 
   1. [{ Personal }](https://github.com/le4ker/personal-jekyll-theme)
   2. [Grayscale](http://startbootstrap.com/template-overviews/grayscale/)
