@@ -58,16 +58,11 @@ lines: # You can add HTML Tags in the Text
   - text: "Sophomore at IIT Kharagpur."
   - text: "I read applied philosophy... and people."
   - text: "I love to sponsor coffees."
+  - text: "I think, therefore I am!"
 
 me-img: "/img/me.png"
 
-# To use facebook profile pic comment the previous line and uncomment the following
-# line, and replace 'user_id' with your facebook user id.
-# Facebook user id can be found by clicking on your profile pic and the large number
-# in the end of the url just before '&type' is your user id.
-# Note: fbid is not the same as user id and user id only contains numbers
-
-# me-img: "https://graph.facebook.com/user_id/picture?type=large&width=500&height=500"
+# Using facebook isn't possible anymore since the change in graph API
 
 # To use github profile pic uncomment the following line and replace 'user_name'
 # with your github user name.
