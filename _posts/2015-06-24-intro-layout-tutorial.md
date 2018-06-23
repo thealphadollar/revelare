@@ -21,7 +21,7 @@ The black favicon is an image on the left of the navigation bar.
 Preferably it should be a black and white version of your favicon.
 
 <pre><code data-trim class="yaml">
-black-favicon: "/img/black-lab-glass.ico"
+black-favicon: "/img/favicon.ico"
 </code></pre>
 
 ### Background image
