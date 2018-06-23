@@ -16,7 +16,7 @@ baseurl: "/revelare"
 
 # Google tracking id
 
-google-tracking-id: ""
+google-tracking-id: "UA-121294295-1"
 
 # Forces https everywhere in your website, except when you serve it locally
 # If you are not hosted on Github Pages, and your host doesn't support https
@@ -127,12 +127,15 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+  - image: "/img/timeline/gsoc.png"
+    date: "April 2018 - August 2018"
+    description: "GSoC Student Developer"
+  - image: "/img/timeline/kgp.jpg"
+    date: "July 2017 - Today"
+    description: "JEE AIR 286, Joined IIT KGP!"
+  - image: "/img/timeline/begin_code.jpg"
+    date: "September 2013"
+    description: "Introduced To Coding"
 
 # First image of the Timeline
 
@@ -210,6 +213,6 @@ paginate_path: "blog/page:num/"
 sass:
   style: compressed
 
-gems:
+plugins:
   - jekyll-paginate
   - jemoji
