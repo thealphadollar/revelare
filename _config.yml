@@ -3,7 +3,7 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "https://thealphadollar.github.io/revelare/"
+url: "https://thealphadollar.github.io"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -59,7 +59,7 @@ lines: # You can add HTML Tags in the Text
   - text: "I read applied philosophy... and people."
   - text: "I love to sponsor coffees."
 
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/me.png"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
@@ -171,8 +171,8 @@ social:
     url: "https://twitter.com/thealphadollar_"
   - title: "github"
     url: "https://github.com/thealphadollar"
-  - title: "medium-m"
-  - url: "https://www.medium.com/@thealphadollar"
+  - title: "medium"
+    url: "https://www.medium.com/@thealphadollar"
   - title: "industry"
     url: "https://github.com/thealphadollar/my_resume/raw/master/resume_thealphadollar.pdf"
 
@@ -186,7 +186,7 @@ err-404-img: "/img/labtocat.png"
 # GPG on Keybase #
 ##################
 #
-#keybase-username: johnsmith
+#keybase-username: <username>
 #keybase-in-social: True
 #keybase-in-footer: True
 
