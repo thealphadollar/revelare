@@ -104,11 +104,11 @@ icon-192p: "/img/web-app/icon-192p.png"
 
 enable-gesture-navigation: True
 
-post-preview-words: 96
+post-preview-words: 60
 
 paginate: 5
 
-email-share: True
+email-share: False
 fb-share: True
 twitter-share: True
 linkedin-share: True
@@ -172,6 +172,8 @@ social:
     url: "https://github.com/thealphadollar"
   - title: "medium"
     url: "https://www.medium.com/@thealphadollar"
+  - title: "linkedin"
+    url: "https://www.linkedin.com/in/thealphadollar"
   - title: "industry"
     url: "https://github.com/thealphadollar/my_resume/raw/master/resume_thealphadollar.pdf"
 
