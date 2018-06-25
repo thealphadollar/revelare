@@ -4,4 +4,4 @@ post:
 	jekyll build
 	git add .
 	git commit -S -m "make new post"
-	gitpush
+	git push origin master
