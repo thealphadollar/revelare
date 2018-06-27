@@ -175,8 +175,8 @@ social:
     url: "https://www.medium.com/@thealphadollar"
   - title: "linkedin"
     url: "https://www.linkedin.com/in/thealphadollar"
-  - title: "industry"
-    url: "https://github.com/thealphadollar/my_resume/raw/master/resume_thealphadollar.pdf"
+#  - title: "industry"
+#    url: "https://github.com/thealphadollar/my_resume/raw/master/resume_thealphadollar.pdf"
 
 ############
 # 404 page #
