@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-crosspost_to_medium: true
+crosspost_to_medium: false
 title: "I Read 'Shakespeare: A Graphic Guide'"
 category: Readings
 tags: [ 'books', 'review', 'book review', 'shakespeare', 'poetry' ]
@@ -16,7 +16,7 @@ A Graphic Guide".
 
 Just like the last book I read, this is not a biography of the life of Willian, but rather an account of his life, his works and, surprisingly, _hamlet_:
 there is as much as discussion of _hamlet_ alone as Shakespeare in the book. This inclusion makes the book interesting in the 
-initial parts with direct quotations and references, but towards the end it turns all flat with pale details about the rewritings of _hamlet_
+initial parts with direct quotations and references, but towards the end it turns all flat with pale details about the rewriting of _hamlet_
 and it's analysis to get a glimpse of Shakespeare's life.
 
 I did not find much difference in the beginning of the book than the previous one; it starts with a tone of a biography of Shakespeare,
@@ -36,7 +36,7 @@ using examples from his work. Very similarly, it also points out the properties 
 
 All in all the book is great in terms of information but it gets boring when there is too much emphasis of events, and inclusion 
 of a lot of names rather than vivid story telling and streamlined event flow. There were times when I thought of not reading
-it further, but then continued once I skimmed through a few pages. The only thing in favor of my reading is the sandwitching of 
+it further, but then continued once I skimmed through a few pages. The only thing in favor of my reading is the sandwiching of 
 dull content between bursts of interest to keep the reader wanting to pace up.
 
 Below I quote one of my favorite quotations from the works of Shakespeare in the book,
