@@ -88,7 +88,7 @@ apple-status-bar-style: "black"
 # Web app mode #
 ################
 
-web-app-mode: True
+web-app-mode: False
 
 # Icons for Web App mode
 
@@ -129,15 +129,18 @@ syntax-highlight: True
 ############
 
 events:
+  - image: "/img/timeline/gci.png"
+    date: "October 2018 - December 2018"
+    description: "Google CodeIn 2018 Mentor, CCExtractor"
   - image: "/img/timeline/gsoc.png"
     date: "April 2018 - August 2018"
-    description: "GSoC Student Developer"
+    description: "Google Summer Of Code Developer, CCExtractor"
   - image: "/img/timeline/kgp.jpg"
     date: "July 2017 - Today"
-    description: "JEE AIR 286, Joined IIT KGP!"
+    description: "JEE AIR 286, Joined IIT KGP CSE!"
   - image: "/img/timeline/begin_code.jpg"
     date: "September 2013"
-    description: "Introduced To Coding"
+    description: "Started Learning To Code"
 
 # First image of the Timeline
 
