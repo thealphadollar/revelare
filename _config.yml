@@ -55,11 +55,11 @@ type-speed: 7
 start-delay: 100
 delete-delay: 3000
 lines: # You can add HTML Tags in the Text
-  - text: "Sophomore at IIT Kharagpur."
-  - text: "Python teaches, 'it is easier to ask forgiveness than permission'."
-  - text: "I read applied philosophy... and people."
-  - text: "Programming unleashes me, and psychology busts barricades."
-  - text: "I love to sponsor coffee."
+  - text: "Sophomore at IIT Kharagpur..."
+  - text: "it is easier to ask forgiveness than permission..."
+  - text: "I read applied philosophy... and people..."
+  - text: "Programming unleashes me, and psychology busts barricades..."
+  - text: "I love to sponsor coffee..."
   - text: "I think, therefore I am!"
 
 me-img: "/img/me.png"
