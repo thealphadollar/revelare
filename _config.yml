@@ -31,8 +31,8 @@ force-https: True
 lang: "en"
 author: "Shivam Kumar Jha"
 title: "{ Cogito, Ergo Sum }"
-description: "Personal website of Shivam Kumar Jha: encompasses his thoughts, ideas and experience in the field of Computer Science, Philosophy and Psychology."
-keywords: "thealphadollar, thealpha$, personal"
+description: "An attempt at encapsulating life of Shivam Kumar Jha - his experience, thoughts and ideas at one place for all to see."
+keywords: "thealphadollar, thealpha$, personal, shivam kumar jha, shivam, thealpha"
 favicon: "/img/favicon.ico"
 
 ################
@@ -56,11 +56,11 @@ start-delay: 100
 delete-delay: 3000
 lines: # You can add HTML Tags in the Text
   - text: "Sophomore at IIT Kharagpur..."
-  - text: "it is easier to ask forgiveness than permission..."
-  - text: "I read applied philosophy... and people..."
-  - text: "Programming unleashes me, and psychology busts barricades..."
-  - text: "I love to sponsor coffee..."
-  - text: "I think, therefore I am!"
+  - text: "Ask forgiveness not permission, or not even that..."
+  - text: "Read philosophy? BORING! Read people? Yeah..."
+  - text: "Ice melts quicker when you read..."
+  - text: "I would love to have a coffee, with you..."
+  - text: "If efforts could be gauged, world would have been..."
 
 me-img: "/img/me.png"
 
@@ -160,7 +160,9 @@ email: "shivam.cs.iit.kgp@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Shivam is an automation enthusiast; he loves to invest time in creating bots for mundane tasks so he can spend time reading books, exploring places and meeting people. And code a lot too!"
+author_blurb: "Your typical geek; Shivam can be found toiling hard through books (away from library) to find what she means by her actions
+ :wink: Hard at work, and harder at drunk dancing, he loves to skim through articles to increase his productivity so he can
+ waste more time. Nonetheless, when he does get some time, and is in the mood, he writes few lines of code and more lines of rhymes :facepunch:"
 author_blurb_image: "/img/author.png"
 
 ##################
