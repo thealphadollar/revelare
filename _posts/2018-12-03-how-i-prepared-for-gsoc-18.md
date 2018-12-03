@@ -154,7 +154,7 @@ writing the proposal and should be contributing directly to the organization.
 
 This wraps up the technical and organizational part of the preparation. There will be many emotional challenges you'll be facing
 while submitting the proposal: you'll lose hope at times, your patience might get over, you might grow jealousy towards your competitors and
-much more. It is highly important to keep yourself emotionally healthy during this phase, talk to your family, friends, and seniors
+much more. It is highly important to keep yourself emotionally healthy during this phase; talk to your family, friends, and seniors
 for help and motivation.
 
 I'm highly grateful :pray: to [Himanshu Mishra](https://www.github.com/orkohunter) and [Naresh Ramesh](https://www.github.com/ghostwriternr) for being
