@@ -7,13 +7,43 @@
 
         {{ page.content | markdownify }}
 
-        {% assign post = site.posts.first %}
+        {% assign post = site.posts[0] %}
         <h4> <strong> {{ post.date | date_to_string }} </strong>
           <small>.
             <a class="category" href="{{site.baseurl}}/categories/{{post.category | downcase}}.html">
               {{ post.category }}
             </a>
           .</small>
+          <strong> <a href="{{site.baseurl}}{{ post.url }}">{{post.title}} </a> </strong>
+          <small> <a href="{{site.baseurl}}{{post.url}}#disqus_thread">Comments</a></small>
+        </h4>
+
+        <section class="text-justify">
+          {{ post.content | strip_html | markdownify | truncatewords: site.post-preview-words }}
+        </section>
+
+        {% assign post = site.posts[1] %}
+        <h4> <strong> {{ post.date | date_to_string }} </strong>
+          <small>.
+            <a class="category" href="{{site.baseurl}}/categories/{{post.category | downcase}}.html">
+              {{ post.category }}
+            </a>
+            .</small>
+          <strong> <a href="{{site.baseurl}}{{ post.url }}">{{post.title}} </a> </strong>
+          <small> <a href="{{site.baseurl}}{{post.url}}#disqus_thread">Comments</a></small>
+        </h4>
+
+        <section class="text-justify">
+          {{ post.content | strip_html | markdownify | truncatewords: site.post-preview-words }}
+        </section>
+
+        {% assign post = site.posts[2] %}
+        <h4> <strong> {{ post.date | date_to_string }} </strong>
+          <small>.
+            <a class="category" href="{{site.baseurl}}/categories/{{post.category | downcase}}.html">
+              {{ post.category }}
+            </a>
+            .</small>
           <strong> <a href="{{site.baseurl}}{{ post.url }}">{{post.title}} </a> </strong>
           <small> <a href="{{site.baseurl}}{{post.url}}#disqus_thread">Comments</a></small>
         </h4>
