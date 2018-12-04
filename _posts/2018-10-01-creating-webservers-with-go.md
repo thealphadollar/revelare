@@ -3,6 +3,7 @@ layout: post
 section-type: post
 crosspost_to_medium: true
 title: "Going For Go For Web APIs"
+featured_img: img/posts/go-web-api/Go-lang.jpg
 category: Experience
 tags: [ 'programming', 'golang', 'go',  'web servers', 'OnThisDay' ]
 ---

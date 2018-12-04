@@ -3,6 +3,7 @@ layout: post
 section-type: post
 crosspost_to_medium: false
 title: "From KWoC To GCI"
+featured_img: img/posts/gci-gsoc/1.png
 category: experience
 tags: [ 'gci', 'gsoc', 'kwoc', 'mentorship', 'gssoc' ]
 ---
@@ -13,6 +14,8 @@ I'm dedicating this article to summarising the journey and giving a glimpse of w
 order. The inspiration for the article is the fact that I've become a GCI mentor in the organisation I did my Google Summer of Code with.
 
 ---
+
+![Me At Top, Yayy!]({{"img/posts/gci-gsoc/1.png" | absolute_url}})
 
 I began all the way back in December 2017 with [Kharagpur Winter of Code](https://kwoc.kossiitkgp.org/) organized by Kharagpur
 Open Source Society. It was my first experience with open source software development, and I became fond of the idea of the same.

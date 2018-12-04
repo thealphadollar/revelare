@@ -15,5 +15,14 @@
   <br class="visible-xs-block">
   <small><a href="{{site.baseurl}}{{post.url}}#disqus_thread">Comments</a></small>
 </h4>
+{% if post.featured_img != null %}
+<section>
+  <img src="../{{ post.featured_img }}" />
+</section>
+<br>
+{% endif %}
+<section class="text-justify">
+  {{ post.content | strip_html | markdownify | truncatewords: site.post-preview-words }}
+</section>
 
 <!-- Post List End -->

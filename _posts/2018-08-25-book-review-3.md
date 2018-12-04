@@ -3,6 +3,7 @@ layout: post
 section-type: post
 crosspost_to_medium: true
 title: "I Read 'The Difficulty Of Being Good'"
+featured_img: img/posts/book-review-3/first.jpg
 category: Readings
 tags: [ 'books', 'review', 'book review', 'philosophy', 'dharma', 'mahabharta' ]
 ---

@@ -3,6 +3,7 @@ layout: post
 section-type: post
 crosspost_to_medium: true
 title: "GSoC: How? This? That?"
+featured_img: img/posts/gsoc-guide/2.png
 category: experience
 tags: [ 'gsoc', 'opensource', 'nephos', 'ccextractor', 'guide' ]
 ---

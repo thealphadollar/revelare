@@ -18,6 +18,13 @@
           <small> <a href="{{site.baseurl}}{{post.url}}#disqus_thread">Comments</a></small>
         </h4>
 
+        {% if post.featured_img != null %}
+        <section>
+          <img src="../{{ post.featured_img }}" />
+        </section>
+        <br>
+        {% endif %}
+
         <section class="text-justify">
           {{ post.content | strip_html | markdownify | truncatewords: site.post-preview-words }}
         </section>
@@ -33,6 +40,13 @@
           <small> <a href="{{site.baseurl}}{{post.url}}#disqus_thread">Comments</a></small>
         </h4>
 
+        {% if post.featured_img != null %}
+        <section>
+          <img src="../{{ post.featured_img }}" />
+        </section>
+        <br>
+        {% endif %}
+
         <section class="text-justify">
           {{ post.content | strip_html | markdownify | truncatewords: site.post-preview-words }}
         </section>
@@ -47,6 +61,13 @@
           <strong> <a href="{{site.baseurl}}{{ post.url }}">{{post.title}} </a> </strong>
           <small> <a href="{{site.baseurl}}{{post.url}}#disqus_thread">Comments</a></small>
         </h4>
+
+        {% if post.featured_img != null %}
+        <section>
+          <img src="../{{ post.featured_img }}" />
+        </section>
+        <br>
+        {% endif %}
 
         <section class="text-justify">
           {{ post.content | strip_html | markdownify | truncatewords: site.post-preview-words }}

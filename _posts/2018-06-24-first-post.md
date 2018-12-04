@@ -2,6 +2,7 @@
 layout: post
 section-type: post
 title: Welcome To {Cogito, Ergo Sum}
+featured_img: img/posts/first_post/the-thinker.png
 category: general
 tags: [ 'welcome', 'philosophy', 'thoughts' ]
 ---
