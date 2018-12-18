@@ -22,7 +22,7 @@
 <br>
 {% endif %}
 <section class="text-justify">
-  {{ post.content | strip_html | markdownify | truncatewords: site.post-preview-words }}
+  <p>{{ post.content | strip_html | markdownify | truncatewords: site.post-preview-words }} <a href="{{site.baseurl}}{{post.url}}">more</a></p>
 </section>
 
 <!-- Post List End -->

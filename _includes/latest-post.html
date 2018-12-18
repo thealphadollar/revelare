@@ -26,7 +26,7 @@
         {% endif %}
 
         <section class="text-justify">
-          {{ post.content | strip_html | markdownify | truncatewords: site.post-preview-words }}
+          <p>{{ post.content | strip_html | markdownify | truncatewords: site.post-preview-words }} <a href="{{site.baseurl}}{{post.url}}">more</a></p>
         </section>
 
         {% assign post = site.posts[1] %}
@@ -48,7 +48,7 @@
         {% endif %}
 
         <section class="text-justify">
-          {{ post.content | strip_html | markdownify | truncatewords: site.post-preview-words }}
+          <p>{{ post.content | strip_html | markdownify | truncatewords: site.post-preview-words }} <a href="{{site.baseurl}}{{post.url}}">more</a></p>
         </section>
 
         {% assign post = site.posts[2] %}
@@ -70,10 +70,10 @@
         {% endif %}
 
         <section class="text-justify">
-          {{ post.content | strip_html | markdownify | truncatewords: site.post-preview-words }}
+          <p>{{ post.content | strip_html | markdownify | truncatewords: site.post-preview-words }} <a href="{{site.baseurl}}{{post.url}}">more</a></p>
         </section>
 
-        <h4><a href="{{site.baseurl}}/blog/">Archive</a></h4>
+        <h4><a href="{{site.baseurl}}/blog/">More Posts</a></h4>
 
       </div>
     </div>
