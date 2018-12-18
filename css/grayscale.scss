@@ -83,6 +83,7 @@ a {
     border-bottom: 1px solid rgba($font-color, 0.3);
     text-transform: uppercase;
     font-family: "Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: bold;
     background-color: $navbar-sm-background-color;
 
     /* Fix height limit and scroll for small screen and many items menu */
@@ -139,7 +140,7 @@ a {
             }
         }
     }
-    @media(min-width:768px) {
+    @media(min-width:992px) {
         padding: 20px 0;
         border-bottom: none;
         letter-spacing: 1px;
