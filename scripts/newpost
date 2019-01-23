@@ -1,8 +1,10 @@
 #!/usr/bin/env ruby
 
 require 'date'
+require 'fileutils'
 
 POSTS_DIR = '_posts/'
+IMG_DIR = 'img/'
 
 post = ARGV[0]
 
@@ -11,3 +13,6 @@ File.open(POSTS_DIR + Date.today.strftime("%Y-%m-%d-") + post + '.md', 'w') {|f|
 }
 
 puts('[+] Created ' + post + ' post')
+
+# creates directory for storing images
+FileUtils.mkdir_p IMG_DIR + "posts/" + post
