@@ -73,6 +73,50 @@
           <p>{{ post.content | strip_html | markdownify | truncatewords: site.post-preview-words }} <a href="{{site.baseurl}}{{post.url}}">more</a></p>
         </section>
 
+        {% assign post = site.posts[3] %}
+        <h4> <strong> {{ post.date | date_to_string }} </strong>
+          <small>.
+            <a class="category" href="{{site.baseurl}}/categories/{{post.category | downcase}}.html">
+              {{ post.category }}
+            </a>
+            .</small>
+          <strong> <a href="{{site.baseurl}}{{ post.url }}">{{post.title}} </a> </strong>
+          <small> <a href="{{site.baseurl}}{{post.url}}#disqus_thread">Comments</a></small>
+        </h4>
+
+        {% if post.featured_img != null %}
+        <section>
+          <img src="../{{ post.featured_img }}" />
+        </section>
+        <br>
+        {% endif %}
+
+        <section class="text-justify">
+          <p>{{ post.content | strip_html | markdownify | truncatewords: site.post-preview-words }} <a href="{{site.baseurl}}{{post.url}}">more</a></p>
+        </section>
+
+        {% assign post = site.posts[4] %}
+        <h4> <strong> {{ post.date | date_to_string }} </strong>
+          <small>.
+            <a class="category" href="{{site.baseurl}}/categories/{{post.category | downcase}}.html">
+              {{ post.category }}
+            </a>
+            .</small>
+          <strong> <a href="{{site.baseurl}}{{ post.url }}">{{post.title}} </a> </strong>
+          <small> <a href="{{site.baseurl}}{{post.url}}#disqus_thread">Comments</a></small>
+        </h4>
+
+        {% if post.featured_img != null %}
+        <section>
+          <img src="../{{ post.featured_img }}" />
+        </section>
+        <br>
+        {% endif %}
+
+        <section class="text-justify">
+          <p>{{ post.content | strip_html | markdownify | truncatewords: site.post-preview-words }} <a href="{{site.baseurl}}{{post.url}}">more</a></p>
+        </section>
+
         <h4><a href="{{site.baseurl}}/blog/">More Posts</a></h4>
 
       </div>
