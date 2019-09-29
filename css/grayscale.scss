@@ -253,9 +253,14 @@ a {
         text-align: left;
         margin: 0 0 25px;
         font-size: 18px;
-        line-height: 2.5;
+        line-height: 1.5;
         list-style-position: inside;
     }
+
+    li {
+        padding: .8em;
+    }
+
     pre {
       padding: 0;
       > code {
