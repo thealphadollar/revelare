@@ -21,7 +21,7 @@
           <h4>
             <strong>{{ page.date | date_to_string }}</strong>
             <small>
-              . category:
+              . <strong>{% include reading-time.html %}</strong>:
               <a class="category" href="{{site.baseurl}}/categories/{{page.category | downcase}}.html">
                 {{ page.category }}
               </a>.

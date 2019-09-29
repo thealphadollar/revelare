@@ -13,7 +13,7 @@
     <strong>{{ post.title }}</strong>
   </a>
   <br class="visible-xs-block">
-  <small><a href="{{site.baseurl}}{{post.url}}#disqus_thread">Comments</a></small>
+  <small><strong>{% include reading-time.html %}</strong> Read</small>
 </h4>
 {% if post.featured_img != null %}
 <section>
