@@ -1,5 +1,5 @@
 ---
-title: Quicks Notes On Improving Productivity
+title: Quick Notes On Improving Productivity
 layout: post
 section-type: post
 featured_img: img/posts/productivity/feature.jpg
