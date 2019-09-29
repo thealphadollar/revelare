@@ -15,7 +15,7 @@
             </a>
           .</small>
           <strong> <a href="{{site.baseurl}}{{ post.url }}">{{post.title}} </a> </strong>
-          <small> <a href="{{site.baseurl}}{{post.url}}#disqus_thread">Comments</a></small>
+          <small> {{ content | reading_time_as_s }}</small>
         </h4>
 
         {% if post.featured_img != null %}

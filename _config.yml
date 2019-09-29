@@ -227,3 +227,4 @@ plugins:
   - jekyll-paginate
   - jemoji
   - jekyll-admin
+  - jekyll-time-to-read
