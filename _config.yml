@@ -129,6 +129,12 @@ syntax-highlight: True
 ############
 
 events:
+  - image: "/img/timeline/gsoc.png"
+    date: "April 2019 - August 2019"
+    description: "Google Summer Of Code Developer, CCExtractor"
+  - image: "/img/timeline/cleartax.jpg"
+    date: "May 2019 - July 2019"
+    description: "Backend Engineering Intern, ClearTax"
   - image: "/img/timeline/wing.jpeg"
     date: "November 2018 - January 2019"
     description: "Software Engineering Intern, Wingify"
@@ -138,9 +144,9 @@ events:
   - image: "/img/timeline/kgp.jpg"
     date: "July 2017 - Today"
     description: "JEE AIR 286, Joined IIT KGP CSE!"
-  - image: "/img/timeline/begin_code.jpg"
-    date: "September 2013"
-    description: "Started Learning To Code"
+  # - image: "/img/timeline/begin_code.jpg"
+  #   date: "September 2013"
+  #   description: "Started Learning To Code"
 
 # First image of the Timeline
 
