@@ -9,6 +9,7 @@ tags:
 - coding
 - intern
 - internship
+- mercari
 - interview
 - opensource
 - programming
