@@ -44,7 +44,7 @@ Given a decimal number, how would I convert it into a balanced ternary number.
 
 A balanced ternary number has three values [-1, 0, 1] for each position and like binary, powers to 3 are available to use. (For purpose of easy distinguishment, we will be writing -1 as 'T'),
 
-Example: 5 can be represented as 1TT (1 * 9 + (-1 * 3) + (-1 * 3))
+Example: 5 can be represented as 1TT (1 * (3^2) + (-1 * (3^1)) + (-1 * (3^0)))
 ```
 
 The interview was very intractive and with guidance and hints from the interviewer I was able to solve the problem in the stipulated time. Once the problem was solved, I was asked to write the solution in Python and later on we discussed about the edge cases etc.
