@@ -20,3 +20,5 @@ Rakefile
 .idea/
 2015-06-19-writing-posts.md
 .vscode/
+.bundle/
+.jekyll-cache
