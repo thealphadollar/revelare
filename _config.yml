@@ -55,7 +55,7 @@ type-speed: 7
 start-delay: 100
 delete-delay: 3000
 lines: # You can add HTML Tags in the Text
-  - text: "Sophomore at IIT Kharagpur..."
+  - text: "Prefinal Year at IIT Kharagpur..."
   - text: "Ask forgiveness not permission, or not even that..."
   - text: "Read philosophy? BORING! Read people? Yeah..."
   - text: "Ice melts quicker when you read..."
