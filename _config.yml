@@ -3,7 +3,7 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "https://thealphadollar.github.io"
+url: "https://thealphadollar.me"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -129,6 +129,9 @@ syntax-highlight: True
 ############
 
 events:
+  - image: "/img/timeline/interiit.jpeg"
+    date: "November 2019 - December 2020"
+    description: "Information Security CTF, Inter IIT Tech 8.0"
   - image: "/img/timeline/gsoc.png"
     date: "April 2019 - August 2019"
     description: "Google Summer Of Code Developer, CCExtractor"
@@ -233,3 +236,4 @@ plugins:
   - jekyll-paginate
   - jemoji
   - jekyll-admin
+  - jekyll-sitemap
