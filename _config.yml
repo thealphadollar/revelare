@@ -55,12 +55,12 @@ type-speed: 7
 start-delay: 100
 delete-delay: 3000
 lines: # You can add HTML Tags in the Text
-  - text: "Prefinal Year at IIT Kharagpur..."
-  - text: "Ask forgiveness not permission, or not even that..."
-  - text: "Read philosophy? BORING! Read people? Yeah..."
+  - text: "<strong>Prefinal</strong> Year at IIT Kharagpur..."
+  - text: "<strong>Ask forgiveness</strong> not permission, or not even that..."
+  - text: "Read philosophy? BORING! <strong>Read people?</strong> Yeah..."
   - text: "Ice melts quicker when you read..."
-  - text: "I would love to have a coffee, with you..."
-  - text: "If efforts could be gauged, world would have been..."
+  - text: "I would love to have <strong>a coffee, with you...</strong>"
+  - text: "If efforts could be gauged, world would have been <strong>...</strong>"
 
 me-img: "/img/me.png"
 
