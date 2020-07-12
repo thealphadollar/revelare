@@ -42,7 +42,7 @@ So, let's move on and see how we can solve the problems we have here.
 
 The first step we should do which will ease a lot of stuff for us is attaching the S3 bucket as a file system in our EC2 instance. This is very easy if we are trying to access the bucket from an instance of EC2 which has been granted the IAM role for the bucket you are trying to access. A great python package available for the same is [s3fs](https://pypi.org/project/s3fs/).
 
-```python3
+```python
 import s3fs
 
 fs = s3fs.S3FileSystem(anon=False)
@@ -62,7 +62,7 @@ With the successful attachment of the bucket, we can use it just like our own fi
 
 As we noted earlier, we are not sure about the size of the filtered data that our program will output and hence we cannot keep the same on our hard drive storage (i.e. 8GB). For this, we need to use the attached S3 and create a file in which we would be writing as each of the line is spewed out by our program. 
 
-```python3
+```python
 import csv
 
 with fs.open('bucket/output.csv') as f_csv:
@@ -82,7 +82,7 @@ The above code has two points which are important; firstly, we **open the file o
 Second important point is that since this is a CSV file, we need to have the same structure for all the objects we will be trying to write into this file. For the same purpose we will be using a dictionary `output_object`. We will be keeping this as a OrderedDict in order to avoid reordering of the keys in each new instance of the object. Whenever creating a new output object, we will be using python [DeepCopy](https://www.geeksforgeeks.org/copy-python-deep-copy-shallow-copy/).
 
 
-```python3
+```python
 from copy import deepcopy
 
 new_output = deepcopy(output_object)
@@ -95,7 +95,7 @@ The alternate could  be shallow copy (`copy` instead of `deepcopy`) if the objec
 
 Data of 1TB is not easy to handle, and we will be implementing a few measures to make sure we do not run out of memory while handling the data as well as making sure the process is efficient enough. Firstly, let's talk about how are we going to load the data: we will be listing each of the folder in the root folder and then iteratively downloading one file at a time to our system (we will see how this is better than simply using `s3fs` in a while).
 
-```python3
+```python
 all_folders_in_root = fs.ls(ROOT_FOLDER)
 for folder in all_folders_in_root:
 	files = fs.ls(folder)
@@ -110,7 +110,7 @@ for folder in all_folders_in_root:
 
 This makes sure that we are not downloading all the files and storing them which would have led us to run out of disk space. Next comes another crucial step; remember that these files are gzip compressed files and so you might think that we need to decompress them before reading the JSON file line by line. NO, we can read it with `gzip` python package as normal files without decompression. This is the reason we had to download the entire file instead of reading it using `s3fs` since this method will only work on files on the disk.
 
-```python3
+```python
 all_folders_in_root = fs.ls(ROOT_FOLDER)
 for folder in all_folders_in_root:
 	files = fs.ls(folder)
@@ -131,7 +131,7 @@ for folder in all_folders_in_root:
 
 This is a subset of how we are going to handle the data input and deals with good practices for comparison in order to reduce time complexity of operations since we will be doing the same operations over and over on thousands of millions of lines. Firstly, we will be using [`ujson`](https://pypi.org/project/ujson/) package which uses Cython at the backside in order to provide [speed improvements of four times overall inbuilt `json` library](https://medium.com/dataweave/json-vs-simplejson-vs-ujson-2887b2c128b2).
 
-```python3
+```python
 import ujson
 
 ujson.loads(object_str)
@@ -142,7 +142,7 @@ The above example shows how to load a string which represents a valid python obj
 
 Now that we have sped up on the loading of objects, let's think about comparisons. Since we have been saving the memory everywhere in this program, we can splurge on a bit of memory now. We will be storing all the objects that we need to compare in or check presence in as dictionaries. We will discuss why, shortly! Below is a small snippet which checks for the presence of "key2" in the dictionary.
 
-```python3
+```python
 dict_A = {'key1': 1, 'key2': 2, 'key3': 3}
 if 'key2' in dict_A:
 	# do something
