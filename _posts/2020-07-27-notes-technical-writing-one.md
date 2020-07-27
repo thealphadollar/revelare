@@ -25,7 +25,7 @@ I recently did the [Technical Writing One](https://developers.google.com/tech-wr
 - Do define acronyms that meet both of the following criteria:
     - The acronym is significantly shorter than the full term.
     - The acronym appears many times in the document.
-- Pronouns are anbiguous to pointers in programming, avoid using them with below guidelines.
+- Pronouns are analogous to pointers in programming, avoid using them with below guidelines.
     - Only use a pronoun after you've introduced the noun.
     - Place the pronoun as close as possible to the referring noun.
     - If you introduce a second noun between your noun and your pronoun, reuse your noun instead of using a pronoun.
@@ -76,7 +76,7 @@ I recently did the [Technical Writing One](https://developers.google.com/tech-wr
 - Keep in mind the following while creating a table:
     - header should be meaningful
     - avoid too much text in a cell
-- strive for parallelism between columns
+    - strive for parallelism between columns
 - Always introduce the table or list with an introductory sentence terminating with a column.
 
 ### [Paragraphs](https://developers.google.com/tech-writing/one/paragraphs)
