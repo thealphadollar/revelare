@@ -10,6 +10,8 @@ tags:
 - tech
 - programming practices
 - notes
+- technical-writing
+- google
 ---
 
 I recently did the [Technical Writing One](https://developers.google.com/tech-writing/one) and below are my notes from the same. The notes are arranged in the topic wise manner as is the pre-class material for the course.
@@ -129,3 +131,5 @@ I recently did the [Technical Writing One](https://developers.google.com/tech-wr
 The course is fun to do and easy to understand. Examples and exercises are catered towards a technical writer; I would pause sometimes to wonder how a suggestion would look like in actual writing of documentation and find the following example emphasing the same.
 
 I'm looking forward to do [Technical Writing Two](https://developers.google.com/tech-writing/two) in the next few days.
+
+UPDATE: [Notes for Technical Writing Two](/learning/2020/08/01/notes-technical-writing-two.html)
