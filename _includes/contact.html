@@ -27,6 +27,9 @@
           <p><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
         {% endif %}
       {% endif %}
+      {% if site.resume_link %}
+        <p><a href="{{ site.resume_link }}" target="_blank">Resume@Github</a></p>
+      {% endif %}
 
     </div>
   </div>

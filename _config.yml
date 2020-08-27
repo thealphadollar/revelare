@@ -129,6 +129,7 @@ syntax-highlight: True
 ###########
 
 email: "coffee@thealphadollar.me"
+resume_link: "https://github.com/thealphadollar/my_resume/blob/master/resume_thealphadollar.pdf"
 
 ################
 # Author Blurb #
@@ -185,7 +186,6 @@ pages_list:
   About: 'about'
   Blog: 'latest-post'
   Connect: 'connect'
-  Resume: 'resume'
 
 # Exclusion list from the generated _site
 
