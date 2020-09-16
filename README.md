@@ -5,6 +5,16 @@
 My [personal website](https://thealphadollar.github.io/) to summarize my thoughts, projects, and progress in life at one place for me to look back at how silly I've been
 and smile.
 
+## To Include Youtube Video
+
+- Add the following in the file to include video - do not remove the quotes around ID.
+
+```
+{% include youtubePlayer.html id="YOUTUBE_VIDEO_ID" start=START_SECONDS %}
+```
+
+NOTE: Uses [jekyll-embed-video](https://github.com/nathancy/jekyll-embed-video)
+
 ## OpenSource Softwares Used
 
 The website uses the following open source projects:
