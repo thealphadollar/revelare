@@ -75,6 +75,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Ice melts quicker when you read..."
   - text: "I would love to have <strong>a coffee, with you...</strong>"
   - text: "If efforts could be gauged, world would have been <strong>...</strong>"
+  - text: "I've been highly influenced by works like <strong>Sapiens</strong>, <strong>The Courage To Be Disliked</strong>, <strong>The Difficulty of Being Good</strong>, and more..."
 
 me-img: "/img/me.png"
 
