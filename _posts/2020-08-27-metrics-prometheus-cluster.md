@@ -16,6 +16,8 @@ tags:
 - monitoring
 - prometheus
 - grafana
+- zealth-ai
+- careshare
 ---
 
 I recently had to setup metrics monitoring for a `node.js` application that I have been running using PM2 clusters. This article provides an approach to do the same and I believe should be helpful to anyone wanting to collect metrics and setup grafana dashboard for their application which uses [PM2 as a process manager](https://pm2.keymetrics.io/) and runs in [cluster mode]((https://pm2.keymetrics.io/docs/usage/cluster-mode/)).
