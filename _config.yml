@@ -29,11 +29,25 @@ force-https: True
 #############
 
 lang: "en"
-author: "Shivam Kumar Jha"
+author: "thealphadollar"
 title: "{ Cogito, Ergo Sum }"
-description: "An attempt at encapsulating life of Shivam Kumar Jha - his experience, thoughts and ideas at one place for all to see."
-keywords: "thealphadollar, thealpha$, personal, shivam kumar jha, shivam, thealpha"
-favicon: "/img/favicon.ico"
+tagline: "Portfolio website of Shivam containing writeups on technology, programming, philosophy, and psychology."
+description: "An attempt at encapsulating my life - experiences, thoughts and ideas at one place to share with the world and grow. I frequently publish blogs on technology, programming, developer-operations, philosophy, psychology, and create new interesting projects on Github."
+keywords: "thealphadollar, thealpha$, personal, shivam kumar jha, shivam, thealpha, shivam jha, mercari, iitkgp student"
+favicon: /img/favicon.ico
+logo: /img/author_logo.png
+
+#######
+# SEO #
+#######
+social:
+  name: Shivam Kumar Jha
+  links:
+    - https://facebook.com/thealphadollar
+    - https://twitter.com/thealphadollar_
+    - https://github.com/thealphadollar
+    - https://www.medium.com/@thealphadollar
+    - https://www.linkedin.com/in/thealphadollar
 
 ################
 # Header layout #
@@ -205,3 +219,4 @@ plugins:
   - jemoji
   - jekyll-admin
   - jekyll-sitemap
+  - jekyll-seo-tag
