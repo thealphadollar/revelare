@@ -2,7 +2,7 @@
 title: Building GraphQL API In Node.js
 layout: post
 section-type: post
-featured_img: img/posts/graphql-magic/cover.png
+image: img/posts/graphql-magic/cover.png
 category: learning
 tags:
 - coding

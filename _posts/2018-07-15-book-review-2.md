@@ -3,7 +3,7 @@ layout: post
 section-type: post
 crosspost_to_medium: false
 title: "I Read 'Shakespeare: A Graphic Guide'"
-featured_img: img/posts/book-review-2/intro.jpg
+image: img/posts/book-review-2/intro.jpg
 category: Readings
 tags: [ 'books', 'review', 'book review', 'shakespeare', 'poetry' ]
 ---

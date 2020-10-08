@@ -2,7 +2,7 @@
 title: Setup Prometheus-Grafana Metrics With PM2 Clusters
 layout: post
 section-type: post
-featured_img: img/posts/metrics-prometheus-cluster/grafana_dashboard.png
+image: img/posts/metrics-prometheus-cluster/grafana_dashboard.png
 category: tech
 tags:
 - OpenSource

@@ -2,7 +2,7 @@
 title: GirlScript West Bengal Regional Summit | Getting Started In Open-Source
 layout: post
 section-type: post
-featured_img: img/posts/opensource-talk-girlscript/feature.jpeg
+image: img/posts/opensource-talk-girlscript/feature.jpeg
 category: experience
 tags:
 - GSoC

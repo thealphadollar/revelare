@@ -3,7 +3,7 @@ layout: post
 section-type: post
 crosspost_to_medium: yes
 title: "I Read 'Neu-Code for Winning Relationships'"
-featured_img: img/posts/book-review-neucode/awk.png
+image: img/posts/book-review-neucode/awk.png
 category: Readings
 tags: [ 'books', 'review', 'book review', 'relationships' ]
 ---

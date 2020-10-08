@@ -2,7 +2,7 @@
 title: Interview Experience With Google
 layout: post
 section-type: post
-featured_img: img/posts/google/feature.jpg
+image: img/posts/google/feature.jpg
 category: experience
 tags:
 - experience

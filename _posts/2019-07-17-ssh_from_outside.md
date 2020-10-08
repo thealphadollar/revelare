@@ -3,7 +3,7 @@ layout: post
 section-type: post
 crosspost_to_medium: false
 title: "Exposing Campus PC On SSH"
-featured_img: img/posts/ssh/ngrok.png
+image: img/posts/ssh/ngrok.png
 category: tech
 tags: [ 'fixes', 'kgp', 'iitkgp', 'nginx', 'ssh', 'hack' ]
 ---

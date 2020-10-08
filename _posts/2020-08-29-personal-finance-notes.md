@@ -2,7 +2,7 @@
 title: "[WIP] Notes | Khan Academy Personal Finance"
 layout: post
 section-type: post
-featured_img: img/posts/personal-finance-notes/feature.gif
+image: img/posts/personal-finance-notes/feature.gif
 category: learning
 tags:
 - courses

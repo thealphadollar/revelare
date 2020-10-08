@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: "The Sin Of Guilt Abuse"
 category: general
-featured_img: img/posts/sin-guilt-abuse/stop.jpeg
+image: img/posts/sin-guilt-abuse/stop.jpeg
 tags: [ 'philosophy', 'psychology', 'thoughts', 'emotions', 'guilt' ]
 ---
 Whether we accept or not, we all have enjoyed getting our work done by emotionally influencing others. It is, **mostly**, harmless and erupts out of innocent intent. However, at times, we unknowingly push it beyond its bounds and then the repercussions are not positive!

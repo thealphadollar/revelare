@@ -3,7 +3,7 @@ layout: post
 section-type: post
 crosspost_to_medium: false
 title: "From KWoC To GCI"
-featured_img: img/posts/gci-gsoc/1.png
+image: img/posts/gci-gsoc/1.png
 category: experience
 tags: [ 'gci', 'gsoc', 'kwoc', 'mentorship', 'gssoc' ]
 ---

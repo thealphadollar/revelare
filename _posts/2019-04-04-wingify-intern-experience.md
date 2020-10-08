@@ -3,7 +3,7 @@ layout: post
 section-type: post
 crosspost_to_medium: false
 title: "Intern Experience At Wingify"
-featured_img: img/posts/wingify-exp/decode.jpg
+image: img/posts/wingify-exp/decode.jpg
 category: experience
 tags: [ 'internship', 'experience', 'work', 'wingify' ]
 ---

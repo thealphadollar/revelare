@@ -3,7 +3,7 @@ layout: post
 section-type: post
 crosspost_to_medium: true
 title: "A Note On Programmers' Frustration"
-featured_img: img/posts/prog-frust/1.jpg
+image: img/posts/prog-frust/1.jpg
 category: general
 tags: [ 'coding', 'fixes', 'general', 'philosophy' ]
 ---

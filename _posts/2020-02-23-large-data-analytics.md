@@ -2,7 +2,7 @@
 title: How I Handled 1 TB of Data With Python!
 layout: post
 section-type: post
-featured_img: img/posts/aws-1tb/bigdata.jpg
+image: img/posts/aws-1tb/bigdata.jpg
 category: learning
 tags:
 - bigdata

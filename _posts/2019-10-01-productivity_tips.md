@@ -2,7 +2,7 @@
 title: Quick Notes On Improving Productivity
 layout: post
 section-type: post
-featured_img: img/posts/productivity/feature.jpg
+image: img/posts/productivity/feature.jpg
 category: learning
 tags:
 - automation

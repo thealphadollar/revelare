@@ -3,7 +3,7 @@ layout: post
 section-type: post
 crosspost_to_medium: true
 title: "I Read 'Stephen Hawking, A Graphic Guide'"
-featured_img: img/posts/book-review-1/mock-church.jpg
+image: img/posts/book-review-1/mock-church.jpg
 category: Readings
 tags: [ 'books', 'cosmology', 'physics', 'Stephen Hawking', 'review', 'book review' ]
 ---

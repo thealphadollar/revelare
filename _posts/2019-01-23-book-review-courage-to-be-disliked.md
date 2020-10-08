@@ -3,7 +3,7 @@ layout: post
 section-type: post
 crosspost_to_medium: true
 title: "I Read 'The Courage To Be Disliked'"
-featured_img: img/posts/book-review-courage-to-be-disliked/intro.jpg
+image: img/posts/book-review-courage-to-be-disliked/intro.jpg
 category: Readings
 tags: [ 'adlerian psychology', 'psychology', 'books', 'book-review', 'philosophy' ]
 ---

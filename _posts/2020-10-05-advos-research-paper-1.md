@@ -2,7 +2,7 @@
 title: Research Paper Summary | Leaping Onto A Higher Degree Of Multiprogramming
 layout: post
 section-type: post
-featured_img: img/posts/advos-research-paper-1/advos_reading_1_cover.png
+image: img/posts/advos-research-paper-1/advos_reading_1_cover.png
 category: readings
 tags:
 - academics

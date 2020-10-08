@@ -2,7 +2,7 @@
 title: Serving React With Nginx
 layout: post
 section-type: post
-featured_img: img/posts/react-nginx/feature.png
+image: img/posts/react-nginx/feature.png
 category: tech
 tags:
 - bug fix

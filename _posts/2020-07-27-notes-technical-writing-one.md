@@ -2,7 +2,7 @@
 title: Notes From Learning Technical Writing One
 layout: post
 section-type: post
-featured_img: img/posts/technical-writing-one/feature.png
+image: img/posts/technical-writing-one/feature.png
 category: learning
 tags:
 - OpenSource

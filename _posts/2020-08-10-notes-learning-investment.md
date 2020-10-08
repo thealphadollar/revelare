@@ -2,7 +2,7 @@
 title: Notes From How To Invest In Shares
 layout: post
 section-type: post
-featured_img: img/posts/notes-learning-investment/feature.png
+image: img/posts/notes-learning-investment/feature.png
 category: learning
 tags:
 - finance

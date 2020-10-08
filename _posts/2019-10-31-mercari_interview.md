@@ -2,7 +2,7 @@
 title: Interview Experience With Mercari
 layout: post
 section-type: post
-featured_img: img/posts/mercari/feature.png
+image: img/posts/mercari/feature.png
 category: experience
 tags:
 - experience

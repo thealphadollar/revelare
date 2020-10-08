@@ -3,7 +3,7 @@ layout: post
 section-type: post
 crosspost_to_medium: true
 title: "I Read 'The Subtle Art Of Not Giving A Fuck'"
-featured_img: img/posts/book-review-4/cover.png
+image: img/posts/book-review-4/cover.png
 category: Readings
 tags: [ 'books', 'review', 'book review', 'self-help' ]
 ---
