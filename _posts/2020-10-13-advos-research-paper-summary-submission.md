@@ -105,10 +105,11 @@ We realize that integration of the proposed scheduling algorithm for independent
 
 The growing complexity of scheduling algorithms, page migration techniques, and their variance across different OSes and architectures makes it harder (with every new hardware advancement) to implement continuations as apprehending (and handling) all possible “break” scenarios is near impossible. This introduced fragility is aggravated by the temptation to use continuations because of better performance with high-level abstractions. The amount of study done on the efficacy of amalgamation of the approaches is comparatively less, especially in the execution of a parallel workload where the abstractions may become a bottleneck.
 
+---
 #### Footnotes
 The above work is combined efforts of the following individuals in the order of their papers as stated at the beginning of the write up:
 
-- Shivam Kumar Jha | 17CS30033
-- Prashant Ramnani | 17CS10038
-- Rithin Manoj | 17CS10043
-- Satyam Porwal | 17CS10048
+- Shivam Kumar Jha (17CS30033)
+- Prashant Ramnani (17CS10038)
+- Rithin Manoj (17CS10043)
+- Satyam Porwal (17CS10048)
