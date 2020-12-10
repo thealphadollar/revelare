@@ -9,6 +9,9 @@ tags:
 - finance
 - money
 - notes
+- summary
+- lessons
+- self-help
 ---
 
 [Khan Academy](https://www.khanacademy.org/) is a great source of learning and I'm thankful for the addition of the section named "[Life Skills](https://www.khanacademy.org/college-careers-more)" lately. The section contains short courses on significant topics that are amiss in college and school education vis-à-vis personal finance, college admissions, careers, and entrepreneurship.
@@ -76,4 +79,25 @@ This writeup contains notes that I made while learning[ Personal Finance](https:
 	- use electricity very wisely and during non-peak hours
 	- be smart in choosing insurances and review them regularly - research is very important
 
-> **The aim of saving money is to use that money to enjoy pleasures such as going on a vacation, gifting your children that PS4, etc. DO NOT SAVE JUST FOR THE SAKE OF SAVING**!
+> **The aim of saving money is to use that money to enjoy pleasures such as going on a vacation, gifting your children that PS4, etc. DO NOT SAVE JUST FOR THE SAKE OF SAVING!**
+
+---
+## [Interest And Debt](https://www.khanacademy.org/college-careers-more/personal-finance/pf-interest-and-debt)
+- **Compound interest is** magical and **psychologically deceiving** - remember every percentage point counts.
+- **Rule of 72**: divide 72 by return percentage (compounding) to estimate the number of years it'll take to double the money.
+- Interest is, in very simple terms, the rent on money taken or given.
+- **Interest rates are dynamic** and fluctuate as *main bank* deems fit to keep the economy stable, inflation in check, and encourage the creation of jobs. The following examples explain better:
+	- When the employment rate is low, interest rates are lowered to encourage taking more loans boosting purchase and economic activity and thus creating jobs.
+	- When inflation is going high, interest rates are increased to curtail the purchasing power of individuals, limiting demands, and thus lowering prices.
+- A **good credit score is crucial** and is calculated based on many factors like payment history, types of credit, amount of credit, etc.
+- **Credit card rates are given in APR** (Annual Percentage Rate), however, it may be compounded monthly or daily, leading to an **higher effective APR than written APR**.
+- A **credit card may have different types of APRs** - purchase APR, the cash advance APR, penalty AR, promotional APR, etc.
+- **Credit card interest is calculated using Daily Average Balance** and changed for the entire period - **beginning with the first date** for which the statement is generated. For instance, for an unpaid statement from 1 Oct to 1 Nov, interest will be charged from 1 Oct if not paid by the grace period.
+- A fee for credit card transactions is charged by the network (generally 1/1000), the issuing bank, and the acquiring bank.
+- **Avoid payday loans** - exorbitant interest rates in the likes of 650%.
+- Always **use the high-interest rate method to eliminate debt** in life - avoid using the snowball method which is psychologically more soothing as it eliminates the number of debts.
+- Bankruptcy helps get free from the cycle of debt, however comes at the cost of reflection in credit score for, maybe, decades.
+	- Not all types of loans are forgiven under bankruptcy.
+	- A reorganization may be more desirable instead of forgiving a loan and is less costly on the credit score.
+
+> **Debt and credit should be avoided and paid in as early as possible - if an expenditure is not for survival, use savings instead of credit.**
