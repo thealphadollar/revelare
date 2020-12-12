@@ -16,6 +16,7 @@ tags:
 - psychology
 - self-help
 - relationships
+- self-awareness
 layout: post
 type: BlogPosting
 section-type: post
