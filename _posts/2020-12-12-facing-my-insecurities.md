@@ -8,7 +8,7 @@ description: Insecurities are with everyone - or at least believing so makes me 
   apparent cause, rather going deep as to what is it that is giving me the pain. And
   thus I began exploring my insecurities to build emotional resilience and make my
   life more stable...
-image: img/posts/facing-my-insecurities/insecurities_feature.jpg
+image: img/posts/facing-my-insecurities/bird-in-cage.png
 category: thoughts
 tags:
 - philosophy
@@ -38,6 +38,8 @@ And thus I began exploring my insecurities to build emotional resilience and mak
 
 ---
 ## A Cage Of Sharp Knives
+![]({{ 'img/posts/facing-my-insecurities/heart-in-cage.png' | relative_url }})
+
 Let's imagine a cage of sharp knives, and these knives are surrounding our hearts - that's how I feel insecurities are. We do not have control over when someone may push one of those knives a little inside and leave us bleeding. Can we remove those knives? I don't know - maybe we can, maybe we cannot. Can we not bar everyone from pushing it in the first place? That's difficult to think.. and has it's own implications if we try to run away from all the hurt in life. So, what can we do? Let's take a detour and come back to it later.
 
 ---
