@@ -28,7 +28,7 @@ In the past few months, I've been [trying to know myself better](/tags/self-awar
 
 > It is intriguing how we fear talking about ourselves to ourselves!
 
-In this write-up, I've tried to explore my insecurities - and wish to know more about how individuals around me cope up with their insecurities.
+In this write-up, I've tried to explore my insecurities - and wish to know more about how individuals around me cope up with their insecurities. I sincerely thank every individual out there in my life who have been accepting of my insecurities, helped me become better, and provided me with the courage and motivation to know myself on a deeper level.
 
 ---
 ## The Hard Part - Why?
