@@ -101,3 +101,36 @@ This writeup contains notes that I made while learning[ Personal Finance](https:
 	- A reorganization may be more desirable instead of forgiving a loan and is less costly on the credit score.
 
 > **Debt and credit should be avoided and paid in as early as possible - if an expenditure is not for survival, use savings instead of credit.**
+
+---
+## [Investments And Retirement](https://www.khanacademy.org/college-careers-more/personal-finance/pf-investment-vehicles-insurance-and-retirement)
+**Disclaimer: The below summary is to give a general idea of investment and retirement instruments - the facts may not be totally correct and applicable in countries other than USA.**
+
+- Invest in retirement based schemes to save taxes - the only drawback (if considered as one) is it's illiquidity, i.e. liquidation may be not possible and attract penalty.
+- Withdrawing from IRA attracts tax deduction in the current tax slab and not the one when the money was invested.
+- In some retirement schemes, taxes are asked upfront - so it is important to make estimations on which one will be better for us.
+- Some retirement vehicles (eg. 401(k) in USA) may be managed and matched by the employer - a drawback could be that the investment options in such schemes may be limited.
+- Don't be selfish relative to your older self and withdraw money from retirement savings unless absolutely necessary.
+- Keep simplicity in life - one retirement scheme so it is easier to manage.
+- The earlier I start saving for retirement, the more flexibility I'll have with retirement and more time the money will have to compound on itself.
+- Close-ended mutual funds can only be traded in secondary markets after their NFO.
+- Exchange Traded Funds are, loosely saying, a combination of close-ended and open-ended mutual funds.
+	- Usually big corporations buy large shares of the ETF and then sell small shares to individual investors.
+	- Usually ETFs have lower management fees due to less frequent inflow and outflow of money to the AMC.
+- Shares make an individual partial owner of the company, bonds make one partial lender to a company.
+- Securities relating to equity are stocks, while bonds are securities relating to debt.
+- Term life insurance is limited to a term while whole life insurance is for the whole life till I die.
+
+> **Having money make money and emergencies convered (death, disability, loss of job, etc.) provide genuine financial freedom.**
+---
+## [Income And Benefits](https://www.khanacademy.org/college-careers-more/personal-finance/income)
+- From salary, deductions are made by law and then voluntary deductions - these maybe on a pre-tax basis and hence help in saving taxes.
+	- By law deductions are generally tax, social security related schemes, compulsory insurances, etc.
+	- Voluntary deductions may include charity, automated savings, employer benefits, etc.
+- The more allowances we've, there are more withholding and eligible for more tax refund and benefits.
+- More allowances lead to lesser amount in paycheck and thereafter lesser flexibility in how I spend the rest that I get in hand.
+- Be mindful of all the perks and benefits that a job offers and not just the apparent CTC or in-hand salary. For instance, having lunch in office can lead to compounding savings in the long run.
+	- Other benefits may include health insurance, matching for retirement, travel allowance, etc.
+	- Do not underestimate the savings incurred through these benefits - it's easy to overlook since they are not in numbers.
+
+> **It is important to understand - there is always more to earning than just the paycheck.**
