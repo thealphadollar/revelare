@@ -122,6 +122,7 @@ This writeup contains notes that I made while learning[ Personal Finance](https:
 - Term life insurance is limited to a term while whole life insurance is for the whole life till I die.
 
 > **Having money make money and emergencies convered (death, disability, loss of job, etc.) provide genuine financial freedom.**
+
 ---
 ## [Income And Benefits](https://www.khanacademy.org/college-careers-more/personal-finance/income)
 - From salary, deductions are made by law and then voluntary deductions - these maybe on a pre-tax basis and hence help in saving taxes.
