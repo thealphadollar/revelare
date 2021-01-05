@@ -15,6 +15,15 @@ and smile.
 
 NOTE: Uses [jekyll-embed-video](https://github.com/nathancy/jekyll-embed-video)
 
+## To Add Caption To Image
+
+```
+![]({{ 'img/posts/facing-my-insecurities/heart-in-cage.png' | relative_url }})
+*Heart Inside A Cage Surrounded By Knives | Illustration By Aditi Maurya*
+```
+
+Set using https://github.com/thealphadollar/thealphadollar.github.io/blob/master/css/imageCaption.css
+
 ## OpenSource Softwares Used
 
 The website uses the following open source projects:
