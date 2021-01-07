@@ -96,6 +96,3 @@ Please note that most of the principles are from the perspective of Object-Orien
 - Following SOLID should be done flexibly and with the context in mind.
 - If a feature takes 10 hours to implement with SOLID in mind and substantially less otherwise, I'd prefer not to use SOLID.
 - Using all the principles in every implementation is futile; only use as much is beneficial in the long run for maintainability.
-
----
-PS. Thanks to [Yashica](https://yashica-patodia.github.io/) for sharing [*Becoming a better developer by using the SOLID design principles* by *Katerina Trajchevska*](https://www.youtube.com/watch?v=rtmFCcjEgEw)
