@@ -135,3 +135,27 @@ This writeup contains notes that I made while learning[ Personal Finance](https:
 	- Do not underestimate the savings incurred through these benefits - it's easy to overlook since they are not in numbers.
 
 > **It is important to understand - there is always more to earning than just the paycheck.**
+
+---
+## [Buying vs Renting A House](https://www.khanacademy.org/college-careers-more/personal-finance/pf-housing)
+- In general in a mortgage, initially, a larger portion of the monthly payment goes towards paying the interest. Towards the end, it goes heavily to the principal.
+- Always analyze the out-of-pocket costs of renting vs buying any commodity.
+- Don't forget to take into consideration the intangible aspects (such as sense of security, mental peace that rent price fluctuations will not matter, maintainance headache, etc.) of buying vs renting.
+- A thumb rule is to allocate 30% of gross income to housing, utilities, insurance, bill, etc.
+- In addition to rent take into account involved monthly expenses when moving out or renting.
+- Interest paid for the house is the money being burned.
+- When deciding on whether to rent or buy, take into consideration the appreciation or depreciation of housing.
+- Not the whole mortgage but interest is tax-deductible i.e. no tax on the interest amount.
+- There are multiple different types of mortgages. Research is very important before committing.
+- There can be dynamic interest rate loans depending on some index plus some premium.
+- The credit score is extremely important in the long run for taking a loan and its interest rate.
+- Foreclosure affects credit score badly. Hence, in cases of short-sale, it is better to sell and pay to the bank instead of defaulting.
+- Even short-sale may affect credit score and the waived off loan amount may be considered as income for taxation.
+- In a loan or any other debt, consider all sorts of charges (for instance closing fees, paperwork charges, etc.) instead of just the straightforward interest.
+- Possession is not always equal to ownership.
+- The legal documents related to ownership are called deeds.
+- Title insurances protect against random happenings or mishaps to a clean title claim.
+- Escrow is a trusted third party that acts as a bucket and releases assets as each party completes their obligation.
+- Even when people are laid off or salary depreciates, the economy may go up by spending due to appreciation in real estate.
+
+> **It is not a black and white when it comes to renting vs buying, context and research is of utmost importance.**
