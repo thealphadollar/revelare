@@ -159,3 +159,9 @@ This writeup contains notes that I made while learning[ Personal Finance](https:
 - Even when people are laid off or salary depreciates, the economy may go up by spending due to appreciation in real estate.
 
 > **It is not a black and white when it comes to renting vs buying, context and research is of utmost importance.**
+
+---
+## [Buying vs Leasing](https://www.khanacademy.org/college-careers-more/personal-finance/pf-auto)
+- Do calculation for commodities to understand cost of buying vs leasing.
+- Take into consideration as many factors as possible - investing the saved money, tax benefits, resale value, etc.
+- Find resale value based on research and past depreciation.
