@@ -165,3 +165,27 @@ This writeup contains notes that I made while learning[ Personal Finance](https:
 - Do calculation for commodities to understand cost of buying vs leasing.
 - Take into consideration as many factors as possible - investing the saved money, tax benefits, resale value, etc.
 - Find resale value based on research and past depreciation.
+
+> **Leasing or buying has a huge consideration of whether we want to keep the commodity in the long run or not.**
+
+---
+## [Personal Taxes Overview](https://www.khanacademy.org/college-careers-more/personal-finance/pf-taxes)
+> The overview is from a US tax system point of view.
+
+- Tax deductions happen from the income to be taxed.
+- Itemized deduction may be lower or higher than the standard deduction.
+- Only one - itemized or standard deduction - may be chosen.
+- Alternative Minimum Taxes or regular taxes - the maximum of the two needs to be paid.
+- AMT is almost flat rate without any deductions.
+- AMT is usually larger compared to regular taxes for people with lots of deductions or very high income.
+- Estate tax (AKA inheritance tax and death tax) is charged on the property left behind on death.
+- Each country has some sort of progressive income tax system.
+- The progressive tax system works in the following manner: first 10,000 at X%, next 10,000 at Y%, and so on. Here, X and Y are tax rate for the 0-10,000 and 10,000-20,000 tax brackets.
+- The tax bracket calculation is done on the taxable income, i.e. after removing the deductions.
+- A tax credit is directly subtracted from the taxes (unlike deductions).
+- Gross income includes all the income for the financial year.
+- On gross income, over-the-line deductions are made to get adjusted gross income.
+- On AGI, deductions, and exemptions are subtracted to get the taxable income and eventually taxes.
+- Having dependents allows for claiming exemptions related to dependents.
+
+> **Tax systems are complex. Though once understood, lot of money may be saved with little effort.**
