@@ -189,3 +189,23 @@ This writeup contains notes that I made while learning[ Personal Finance](https:
 - Having dependents allows for claiming exemptions related to dependents.
 
 > **Tax systems are complex. Though once understood, lot of money may be saved with little effort.**
+
+---
+## [Paying For College](https://www.khanacademy.org/college-careers-more/personal-finance/pf-paying-for-college)
+> The ideas are general though have been taken from the US college and financial aid system.
+
+- Most of the colleges, especially elite colleges offer adequate financial aids.
+- Never use emergency funds or retirement funds for college.
+- Explore and research all avenues of financial aid.
+- Assess if the prospected job or salary will be able to repay loans.
+- A lot of factors are taken into consideration when deciding eligibility for financial aid.
+- Every little bit helps when saving for a college or saving in general.
+- There are broadly two types of scholarships - merit-based and need-based.
+- The more specific a scholarship is, the higher are the chances of getting it.
+- Student loans are of different types and it's important to look through al.
+- Sometimes for some loans a deferment is possible.
+- Restructuring and rebalancing loans can help in saving money and time.
+- Financial aid package can be appealed for a review and should be done immediately.
+- Always keep in mind the opportunity cost of taking up graduation or study in general.
+
+> **College can be one of the best investments if done wisely.**
