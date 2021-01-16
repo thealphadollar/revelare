@@ -1,5 +1,5 @@
 ---
-title: "[WIP] Notes | Khan Academy Personal Finance"
+title: Notes | Khan Academy Personal Finance
 layout: post
 section-type: post
 image: img/posts/personal-finance-notes/feature.gif
