@@ -54,7 +54,7 @@ I've formulated a two-step check to reduce the habit. I hope to remind myself of
 The latter may induce a certain degree of priming. As I was discussing with a friend last night - **"achieving perfection is not the aim, working towards it is"**. 
 
 ---
-#### Side-effects And Inspirations
+#### Effects And Inspirations
 Another interesting question - "***Will I choose differently in the situation if I was advicing my friend on what to do?***" - has helped me have a clearer vision when overwhelmed. The awareness of choices and how perspectives and emotions affect them has helped me be calmer. Many a time, I've encountered situations that are very similar with the only difference being me or someone else as the subject. A strange yet obvious fact I've noticed is I'm wiser when deciding the latter case. Becoming known of and accepting the biases, I've been able to see situations from a third-person point of view. And hopefully, respond better and kinder.
 
 > closing my eyes, looking from the top right corner of the room, and observing the situation without involvement, judgment, or any evaluation.
