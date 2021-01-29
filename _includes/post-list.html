@@ -17,7 +17,7 @@
 </h4>
 {% if post.image != null %}
 <section>
-  <img src="{{site.baseurl}}/{{ post.image }}" />
+  <a href="{{site.baseurl}}{{post.url}}"><img src="{{site.baseurl}}/{{ post.image }}" /></a>
 </section>
 <br>
 {% endif %}
