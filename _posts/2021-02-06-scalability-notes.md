@@ -30,7 +30,7 @@ Around a month back I saw the [CS75 Lecture on Scalability by David Malan](https
 - The advancement in vertical scalability has improved the accessibility of VPSes.
 - SSD >> SAS >> SATA HDD - order in terms of price and speed.
 - Horizontal scalability is achieved by using multiple machines - spanning the load on the level.
-- Load balanced distributes the traffic across multiple machines in horizontal scaling.
+- Load balancer distributes the traffic across multiple machines in horizontal scaling.
 - Private IP addresses cannot be directly reached by the internet.
 - Load balancing can happen on the basis of load, round robin, work distribution, etc.
 - There are caches on different levels - browser, system, etc. storing DNS queries, website scripts, etc.
