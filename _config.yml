@@ -31,7 +31,7 @@ force-https: True
 lang: "en"
 author: "thealphadollar"
 title: "{ Cogito, Ergo Sum }"
-tagline: "Portfolio website of Shivam containing writeups on technology, programming, philosophy, and psychology."
+tagline: "A collection of Shivam's writeups on technology, programming, philosophy, and psychology."
 description: "An attempt at encapsulating my life - experiences, thoughts and ideas at one place to share with the world and grow. I frequently publish blogs on technology, programming, developer-operations, philosophy, psychology, and create new interesting projects on Github."
 keywords: "thealphadollar, thealpha$, personal, shivam kumar jha, shivam, thealpha, shivam jha, mercari, iitkgp student"
 favicon: /img/favicon.ico
@@ -72,20 +72,19 @@ delete-delay: 3000
 lines: # You can add HTML Tags in the Text
   - text: "<strong>Prefinal</strong> Year at IIT Kharagpur..."
   - text: "<strong>Ask forgiveness</strong> not permission, or not even that..."
-  - text: "Read philosophy? BORING! <strong>Read people?</strong> Yeah..."
   - text: "Ice melts quicker when you read..."
   - text: "I would love to have <strong>a coffee, with you...</strong>"
   - text: "If efforts could be gauged, world would have been <strong>...</strong>"
-  - text: "I've been highly influenced by works like <strong>Sapiens</strong>, <strong>The Courage To Be Disliked</strong>, <strong>The Difficulty of Being Good</strong>, and more..."
+  - text: "I'm influenced by <strong>Sapiens</strong>, <strong>The Courage To Be Disliked</strong>, <strong>The Difficulty of Being Good</strong>, and more..."
 
-me-img: "/img/me.png"
+# me-img: "/img/me.png"
 
 # Using facebook isn't possible anymore since the change in graph API
 
 # To use github profile pic uncomment the following line and replace 'user_name'
 # with your github user name.
 
-# me-img: "https://github.com/user_name.png?size=500"
+me-img: "https://github.com/thealphadollar.png?size=100"
 
 # To use gravatar profile pic uncomment the following line and replace 'email_hash'
 # with your gravatar profile email hash.
@@ -156,8 +155,8 @@ resume_link: "https://github.com/thealphadollar/my_resume/blob/master/resume_the
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb: "Your typical geek; Shivam can be found toiling hard through books (away from library) to find what she means by her actions
- :wink: Hard at work, and harder at drunk dancing, he loves to skim through articles to increase his productivity so he can
- waste more time. Nonetheless, when he does get some time, and is in the mood, he writes few lines of code and more lines of rhymes :facepunch:"
+ :wink: Hard at work, and harder at drunk dancing, he loves to find ways to increase his productivity so he can
+ invest time elsewhere. When he does get some time, and is in the mood, he writes few lines of code and some lines of rhymes :facepunch:"
 author_blurb_image: "/img/author.png"
 
 ##################
