@@ -21,7 +21,7 @@ section-type: post
 author: thealphadollar
 ---
 
-We all do mistakes and they are unavoidable. From small mistakes such as interrupting someone while speaking to larger and more disastrous ones. While first-time mistakes are forgiven, repeating the same ones is seen as a characteristic of ours (and is indeed a bad habit). And I wanted to address them after reading the book *Seven Habits Of Highly Effective People*.
+We all do mistakes and they are unavoidable. From small mistakes such as interrupting someone while speaking (the motivation for this technique) to larger and more disastrous ones. While first-time mistakes are forgiven, repeating the same ones is seen as a characteristic of ours (and is indeed a bad habit). And I wanted to address them after reading the book *Seven Habits Of Highly Effective People*.
 
 Without further ado, I'll share the simple technique to reduce repeating mistakes. I'll be sharing more on how to increase its effectiveness and the benefits I've observed in later sections. So, if you just want to know the technique, reading only the first section will be apt. I've used the technique for around a year now and, now that I'm sure it has worked wonders for me, I wanted to share it with everyone.
 
