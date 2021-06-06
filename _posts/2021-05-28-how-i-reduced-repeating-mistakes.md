@@ -32,6 +32,7 @@ I have a Trello List titled "*Learnings / Mistakes*" on my *Personal Leadership*
 Once we have the medium setup, we can move to the next step. Whenever I realize I've done a mistake - could be self-realization or someone informing me - I note it as a new entry in the list as "what I should have done instead". If the mistake is contextual, I add a small nudge to remind ourselves of the situation as well. 
 
 ![]({{ 'img/posts/how-i-reduced-repeating-mistakes/the_list.png' | relative_url }})
+*the current state of my learning/mistakes list on Trello*
 
 I've added a few examples in the following subsections to put forward exact texts that I write, though that is not the most important part. The important part is now reading the list every day (at any comfortable time) and taking note of the new habit we want to develop. 
 
@@ -44,6 +45,7 @@ I have had a habit of using BRB casually in chat. BRB stands for Be Right Back. 
 A few days back, I was chatting with a friend and left for attending another meeting saying "BRB". I returned after an hour or so to realize the I had unintentionally kept the individual waiting. Once she made me realize my mistake, I apologized and noted the following.
 
 ![]({{ 'img/posts/how-i-reduced-repeating-mistakes/example_mistake_complex.png' | relative_url }})
+*the cue for improving on the BRB mistake*
 
 I consider this an important mistake to correct. So, every day going through the list I visualize myself chatting, leaving for a meeting in between, and writing in full "I have got a meeting so I'll be back in an hour or so". 
 
