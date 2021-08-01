@@ -70,7 +70,7 @@ type-speed: 7
 start-delay: 100
 delete-delay: 3000
 lines: # You can add HTML Tags in the Text
-  - text: "<strong>Prefinal</strong> Year at IIT Kharagpur..."
+  - text: "<strong>Final</strong> Year undergraduate at IIT Kharagpur..."
   - text: "<strong>Ask forgiveness</strong> not permission, or not even that..."
   - text: "Ice melts quicker when you read..."
   - text: "I would love to have <strong>a coffee, with you...</strong>"
