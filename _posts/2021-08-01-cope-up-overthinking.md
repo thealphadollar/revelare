@@ -7,8 +7,11 @@ description: "In this write-up, we will discuss a simple and effective technique
 image: img/posts/cope-up-overthinking/feature-overthinking.png
 category: thoughts
 tags:
-- tag1
-- tag2
+- thoughts
+- emotions
+- self-help
+- self-awareness
+- meditation
 layout: post
 type: BlogPosting
 section-type: post
