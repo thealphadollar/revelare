@@ -22,3 +22,4 @@ Rakefile
 .vscode/
 .bundle/
 .jekyll-cache
+.pyc
