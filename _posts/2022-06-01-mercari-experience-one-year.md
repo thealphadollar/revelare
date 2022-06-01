@@ -74,7 +74,7 @@ Very recently, Mercari kickstarted the plan to open its Center of Excellence in 
 
 Too many good things, huh? Not really - there have been failures on our part and, often, I’ve been at the root (my team never let me feel that though). From production mistakes that lead to millions in losses to forgetting to get approval for processes before proceeding, I’ve done a ton of mistakes here. And these times are low - even when nobody is pointing fingers, we know we could have been better. And sometimes, it’s the processes and systems at Mercari, and I got the urge to blame and overlook!
 
-![]({{ 'img/posts/mercari-experience-one-year/gift.jpg' | relative_url }})
+![]({{ 'img/posts/mercari-experience-one-year/sweet.jpg' | relative_url }})
 *Kayo-san’s recommended Japanese sticky mango rice (very sticky!)*
 
 Now, why cushioned bottom? And not rock hard 😆 Well, I’ve been frustrated and failed a lot - true. However, when don’t we? 
