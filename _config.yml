@@ -31,7 +31,7 @@ force-https: True
 lang: "en"
 author: "thealphadollar"
 title: "{ Cogito, Ergo Sum }"
-tagline: "A collection of Shivam's writeups on technology, programming, philosophy, and psychology."
+tagline: "A collection of Shivam's experiences on technology, programming, philosophy, and psychology."
 description: "An attempt at encapsulating my life - experiences, thoughts and ideas at one place to share with the world and grow. I frequently publish blogs on technology, programming, developer-operations, philosophy, psychology, and create new interesting projects on Github."
 keywords: "thealphadollar, thealpha$, personal, shivam kumar jha, shivam, thealpha, shivam jha, mercari, iitkgp student"
 favicon: /img/favicon.ico
@@ -44,9 +44,8 @@ social:
   name: Shivam Kumar Jha
   links:
     - https://facebook.com/thealphadollar
-    - https://twitter.com/thealphadollar_
+    - https://twitter.com/thealphadollar
     - https://github.com/thealphadollar
-    - https://www.medium.com/@thealphadollar
     - https://www.instagram.com/thealphadollar
     - https://www.linkedin.com/in/thealphadollar
 
@@ -70,7 +69,7 @@ type-speed: 7
 start-delay: 100
 delete-delay: 3000
 lines: # You can add HTML Tags in the Text
-  - text: "<strong>Final</strong> Year undergraduate at IIT Kharagpur..."
+  - text: "<strong>Computer Science graduate</strong> from IIT Kharagpur..."
   - text: "<strong>Ask forgiveness</strong> not permission, or not even that..."
   - text: "Ice melts quicker when you read..."
   - text: "I would love to have <strong>a coffee, with you...</strong>"
@@ -167,11 +166,9 @@ social:
   - title: "facebook"
     url: "https://facebook.com/thealphadollar"
   - title: "twitter"
-    url: "https://twitter.com/thealphadollar_"
+    url: "https://twitter.com/thealphadollar"
   - title: "github"
     url: "https://github.com/thealphadollar"
-  - title: "medium"
-    url: "https://www.medium.com/@thealphadollar"
   - title: "linkedin"
     url: "https://www.linkedin.com/in/thealphadollar"
   - title: "instagram"
