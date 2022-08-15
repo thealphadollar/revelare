@@ -5,6 +5,22 @@
 My [personal website](https://thealphadollar.github.io/) to summarize my thoughts, projects, and progress in life at one place for me to look back at how silly I've been
 and smile.
 
+# General Instructions
+
+## To Run Locally
+
+1. Install Ruby - `sudo apt-get install ruby-full build-essential zlib1g-dev -y`
+2. Add Ruby to PATH. Replace `~/.zshrc` with your own shell config file.
+```bash
+echo '# Install Ruby Gems to ~/gems' >> ~/.zshrc
+echo 'export GEM_HOME="$HOME/gems"' >> ~/.zshrc
+echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.zshrc
+source ~/.zshrc
+```
+3. Install Jekyll and Bundler - `gem install jekyll bundler`
+4. Install Jekyll dependencies - `bundle install`
+5. Run Jekyll - `bundle exec jekyll serve`
+
 ## To Include Youtube Video
 
 - Add the following in the file to include video - do not remove the quotes around ID.
