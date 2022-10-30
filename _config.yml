@@ -44,9 +44,9 @@ social:
   name: Shivam Kumar Jha
   links:
     - https://facebook.com/thealphadollar
-    - https://twitter.com/thealphadollar
+    # - https://twitter.com/thealphadollar
     - https://github.com/thealphadollar
-    - https://www.instagram.com/thealphadollar
+    # - https://www.instagram.com/thealphadollar
     - https://www.linkedin.com/in/thealphadollar
 
 ################
@@ -70,6 +70,7 @@ start-delay: 100
 delete-delay: 3000
 lines: # You can add HTML Tags in the Text
   - text: "<strong>Computer Science graduate</strong> from IIT Kharagpur..."
+  - text: "<strong>Videogame Backend Developer</strong> at LILA Games..."
   - text: "<strong>Ask forgiveness</strong> not permission, or not even that..."
   - text: "Ice melts quicker when you read..."
   - text: "I would love to have <strong>a coffee, with you...</strong>"
@@ -153,9 +154,8 @@ resume_link: "https://github.com/thealphadollar/my_resume/blob/master/ShivamJha_
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Your typical geek; Shivam can be found toiling hard through books (away from library) to find what she means by her actions
- :wink: Hard at work, and harder at drunk dancing, he loves to find ways to increase his productivity so he can
- invest time elsewhere. When he does get some time, and is in the mood, he writes few lines of code and some lines of rhymes :facepunch:"
+author_blurb: "I'm intrigued by human psychology and code backend for videogames. I live with a philosophy to be simple, true, and kind always.
+  I enjoy taking days slowly and writing when I learn something new - ah! that reminds me, I enjoy learning from new experiences a lot."
 author_blurb_image: "/img/author.png"
 
 ##################
@@ -165,14 +165,14 @@ author_blurb_image: "/img/author.png"
 social:
   - title: "facebook"
     url: "https://facebook.com/thealphadollar"
-  - title: "twitter"
-    url: "https://twitter.com/thealphadollar"
+  # - title: "twitter"
+  #   url: "https://twitter.com/thealphadollar"
   - title: "github"
     url: "https://github.com/thealphadollar"
   - title: "linkedin"
     url: "https://www.linkedin.com/in/thealphadollar"
-  - title: "instagram"
-    url: "https://www.instagram.com/thealphadollar"
+  # - title: "instagram"
+  #   url: "https://www.instagram.com/thealphadollar"
 
 ############
 # 404 page #
