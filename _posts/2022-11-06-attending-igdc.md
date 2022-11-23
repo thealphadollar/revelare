@@ -12,7 +12,14 @@ description: Not long ago, I was working at Mercari Japan - as a software engine
   WhatsApp notification popped up...
 image: img/posts/attending-igdc/feature.jpg
 category: experience
-tags: []
+tags:
+- Work
+- experience
+- lila
+- gaming
+- conferences
+- igdc
+- mercari
 layout: post
 type: BlogPosting
 section-type: post
