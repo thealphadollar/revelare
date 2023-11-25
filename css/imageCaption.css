@@ -1,0 +1,7 @@
+img + em {
+  display: block;
+  text-align: center;
+  padding: 2px;
+  margin-bottom: -1em;
+  font-size: 0.9em;
+}

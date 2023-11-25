@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>{ Cogito, Ergo Sum }</title>
+		<description>An attempt at encapsulating my life - experiences, thoughts and ideas at one place to share with the world and grow. I frequently publish blogs on technology, programming, developer-operations, philosophy, psychology, and create new interesting projects on Github.</description>
+		<link>https://thealphadollar.me</link>
+		<atom:link href="https://thealphadollar.me/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>My First IGDC; Totally Worth It!</title>
+				
+				
+					<description>&lt;p&gt;This is a write-up after a long time - it was the &lt;a href=&quot;https://thealphadollar.me/experience/2022/07/02/mercari-bye-bye.html&quot;&gt;news of leaving Mercari&lt;/a&gt; that I shared the last. Since then, after going through a tough phase of anxiety (a tale for another post), I’ve shifted to being a videogame backend developer at &lt;em&gt;LILA Games&lt;/em&gt;. Being very new to the gaming ecosystem in India, I attended the IGDC this year - with support from the organization.&lt;/p&gt;
+</description>
+				
+				<pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
+				<link>https://thealphadollar.me/experience/2022/11/06/attending-igdc.html</link>
+				<guid isPermaLink="true">https://thealphadollar.me/experience/2022/11/06/attending-igdc.html</guid>
+			</item>
+		
+			<item>
+				<title>Sayonara Mercari!</title>
+				
+				
+					<description>&lt;p&gt;Just a month back, I wrote about &lt;a href=&quot;https://thealphadollar.me/experience/2022/06/01/mercari-experience-one-year.html&quot;&gt;my one-year experience at Mercari&lt;/a&gt;. I had no idea that would be my final experience as well - yes! I left Mercari on 30th June after working as a Software Engineer (Overseas Contractor) in the User Master Program team for over a year. It was a tough call - and I had to make it!&lt;/p&gt;
+</description>
+				
+				<pubDate>Sat, 02 Jul 2022 00:00:00 +0000</pubDate>
+				<link>https://thealphadollar.me/experience/2022/07/02/mercari-bye-bye.html</link>
+				<guid isPermaLink="true">https://thealphadollar.me/experience/2022/07/02/mercari-bye-bye.html</guid>
+			</item>
+		
+			<item>
+				<title>My Experience At Mercari - Significance Beyond Signature</title>
+				
+				
+					<description>&lt;p&gt;It’s been a long since I wrote something… and I’m glad I’ve been busy with some really amazing opportunities I’d be talking about in this write-up. And guess what, I’m really excited to pen down my experience at Mercari, where I’ve completed my one year a month back (&lt;a href=&quot;https://thealphadollar.me/experience/2019/11/06/applying.html&quot;&gt;I should have completed 2 years&lt;/a&gt; 😭).&lt;/p&gt;
+</description>
+				
+				<pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+				<link>https://thealphadollar.me/experience/2022/06/01/mercari-experience-one-year.html</link>
+				<guid isPermaLink="true">https://thealphadollar.me/experience/2022/06/01/mercari-experience-one-year.html</guid>
+			</item>
+		
+			<item>
+				<title>My OpenSource &amp; GSoC Discussions</title>
+				
+				
+					<description>&lt;p&gt;Hey there! It seems you are interested in knowing more about my open-source experience and GSoC in general. All discussions and write-ups related to my open source experience are below:&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 21 Jan 2022 00:00:00 +0000</pubDate>
+				<link>https://thealphadollar.me/experience/2022/01/21/gsoc-compilation.html</link>
+				<guid isPermaLink="true">https://thealphadollar.me/experience/2022/01/21/gsoc-compilation.html</guid>
+			</item>
+		
+			<item>
+				<title>How I Cope-Up With Overthinking (&amp; Grief)</title>
+				
+				
+					<description>&lt;p&gt;In this write-up, we will discuss a simple and effective technique that I learnt while meditating on the &lt;a href=&quot;https://meditofoundation.org/medito-app&quot;&gt;&lt;em&gt;Medito&lt;/em&gt; app&lt;/a&gt;. It’s a wonderful app for guided meditation, however, we can talk about it sometime later.&lt;/p&gt;
+</description>
+				
+				<pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+				<link>https://thealphadollar.me/thoughts/2021/08/01/cope-up-overthinking.html</link>
+				<guid isPermaLink="true">https://thealphadollar.me/thoughts/2021/08/01/cope-up-overthinking.html</guid>
+			</item>
+		
+			<item>
+				<title>Internal Pressure And Choosing Our Pain</title>
+				
+				
+					<description>&lt;p&gt;I recently started with my summer internship at &lt;em&gt;Mercari&lt;/em&gt;. The internship has started late by around two months. So, having lots of free time in May and June, I decided to make myself acquitted with the technical stack of my team at &lt;em&gt;Mercari.&lt;/em&gt;&lt;/p&gt;
+</description>
+				
+				<pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
+				<link>https://thealphadollar.me/thoughts/2021/07/11/internal-pressure-pain.html</link>
+				<guid isPermaLink="true">https://thealphadollar.me/thoughts/2021/07/11/internal-pressure-pain.html</guid>
+			</item>
+		
+			<item>
+				<title>Notes From The Psychology of Money</title>
+				
+				
+					<description>&lt;p&gt;I recently finished reading &lt;strong&gt;&lt;em&gt;The Psychology of Money&lt;/em&gt;&lt;/strong&gt; by &lt;em&gt;Morgan Housel&lt;/em&gt;. It is a fantastic book which talks about finance from a psychological perspective rather than technical. This aspect makes it more relatable and applicable when reading. Following are my notes from the book.&lt;/p&gt;
+</description>
+				
+				<pubDate>Sat, 03 Jul 2021 00:00:00 +0000</pubDate>
+				<link>https://thealphadollar.me/readings/2021/07/03/notes-psychology-of-money.html</link>
+				<guid isPermaLink="true">https://thealphadollar.me/readings/2021/07/03/notes-psychology-of-money.html</guid>
+			</item>
+		
+			<item>
+				<title>How I Reduced Repeating My Mistakes</title>
+				
+				
+					<description>&lt;p&gt;We all do mistakes and they are unavoidable. From small mistakes such as interrupting someone while speaking (the motivation for this technique) to larger and more disastrous ones. While first-time mistakes are forgiven, repeating the same ones is seen as a characteristic of ours (and is indeed a bad habit). And I wanted to address them after reading the book &lt;em&gt;Seven Habits Of Highly Effective People&lt;/em&gt;.&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+				<link>https://thealphadollar.me/learning/2021/05/28/how-i-reduced-repeating-mistakes.html</link>
+				<guid isPermaLink="true">https://thealphadollar.me/learning/2021/05/28/how-i-reduced-repeating-mistakes.html</guid>
+			</item>
+		
+			<item>
+				<title>Notes On Scalability</title>
+				
+				
+					<description>&lt;p&gt;Around a month back I saw the &lt;a href=&quot;https://www.youtube.com/watch?v=-W9F__D3oY4&quot;&gt;CS75 Lecture on Scalability by David Malan&lt;/a&gt;. The write up contains the notes from the same that I wrote while revisiting the lecture.&lt;/p&gt;
+</description>
+				
+				<pubDate>Sat, 06 Feb 2021 00:00:00 +0000</pubDate>
+				<link>https://thealphadollar.me/learning/2021/02/06/scalability-notes.html</link>
+				<guid isPermaLink="true">https://thealphadollar.me/learning/2021/02/06/scalability-notes.html</guid>
+			</item>
+		
+			<item>
+				<title>difficulties and easiness of making choices</title>
+				
+				
+					<description>&lt;p&gt;The write up is yet another in the series of &lt;a href=&quot;tags/self-awareness.html&quot;&gt;self-awareness&lt;/a&gt; and understanding myself on a deeper level. With a simple trigger, I came to understand an important concept - how, without even giving it a deserving pause, we make choices for others. We mostly have the best in mind for the person - the best from our perspective, &lt;strong&gt;our subjective best&lt;/strong&gt;. In the following write up, I’ll be walking through my thoughts on choices, perspectives, and working to make myself a little more accepting.&lt;/p&gt;
+</description>
+				
+				<pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
+				<link>https://thealphadollar.me/thoughts/2021/01/28/difficulties-and-easiness-of-making-choices.html</link>
+				<guid isPermaLink="true">https://thealphadollar.me/thoughts/2021/01/28/difficulties-and-easiness-of-making-choices.html</guid>
+			</item>
+		
+	</channel>
+</rss>
